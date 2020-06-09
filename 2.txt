@@ -1,1 +1,3 @@
 hey git is amazing 
+
+"here is my code to updated learning with new stuffs"
